@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rmathiak
 - 👀 I’m interested in Baseball, my family, and making money.
-- 🌱 I’m currently learning Python, HTML, and Javascript.
+- 🌱 My code languages are PHP, Python, Javascript, and GO.
 - 💞️ I’m looking to collaborate on everything that has to do with GTMC.
 - 📫 You can reach me at r.mathiak@chargebacks911.com
 
